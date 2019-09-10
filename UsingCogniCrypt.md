@@ -20,7 +20,7 @@
 
 Below you can see an image how the IDE, in this case Android Studio, will look like when CogniCrypt was installed.
 
-First thing you notice is the new tool window created in the bottom right corner. Findings found by the analysis will be reported here. More information about the CogniCrypt Window can be found [here]().
+First thing you notice is the new tool window created in the bottom right corner. Findings found by the analysis will be reported here. More information about the CogniCrypt Window can be found [here](ToolWindow.md).
 
 ![CogniCrypt UI](Images/CCIde.png)
 
@@ -34,12 +34,12 @@ To run an analysis you need to invoke the menu item shown in the image above. Mo
 
 ## Other Features
 - [CogniCrypt Rulesets](CrySLRules.md)
-- [Analysis Behavior Options]()
-- [Analysis Targeting Options]()
+- [Analysis Behavior Options](AnalysisBehaviorSettings.md)
+- [Analysis Targeting Options](AnalysisTargetSettings.md)
 
 ## Limitations
 
-- Analysis on obfuscated code may not succeed. [Read more](). 
+- Analysis on obfuscated code may not succeed. [Read more](ObfuscatedCode.md). 
 - A Error-to-Code line mapping only is sufficient if all source files have not been modified since the last compilation (including line breaks)  
 
 ## Known Bugs

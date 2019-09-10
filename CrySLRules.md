@@ -14,7 +14,7 @@ If you want to change the ruleset please follow the next steps:
 *(Such a root directory contains .cryptslbin files)*
 3. Click **OK** in the dialog to save your selection.
 
-![CogniCrypt Settings](Images/CCSettings.png)
+![CogniCrypt Settings](Images/CCSettingsCrySL.png)
 
 
 
