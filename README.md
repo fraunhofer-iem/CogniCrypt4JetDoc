@@ -1,9 +1,3 @@
-*Repository Summary*  
-Distribution Repository for IntelliJ's CogniCrypt.
-
-*Readme*  
-This repository is used by IntelliJ-based IDEs to manage versioning the alpha and beta builds of the CogniCrypt Plugin. 
-
 ## Installation
 
 1. In the Settings/Preferences dialog *(Ctrl+Alt+S)*, select **Plugins**.
