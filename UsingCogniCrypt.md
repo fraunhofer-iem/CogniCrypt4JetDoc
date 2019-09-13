@@ -6,8 +6,10 @@
 - ca. **30MB** of Storage Space
 
 ### Supported IDEs
-- **IntelliJ Community Edition** (v2019.2 or greater)
-- **IntelliJ Ultimate 2019.2** (v2019.2 or greater)
+- **IntelliJ Community Edition 2019.2**
+- **IntelliJ Community Edition 2019.3**
+- **IntelliJ Ultimate 2019.2**
+- **IntelliJ Ultimate 2019.3**
 - **Android Studio** (v3.5 or greater)
 
 ### Supported Programming Languages
