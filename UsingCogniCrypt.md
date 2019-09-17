@@ -32,7 +32,7 @@ First thing you notice is the new tool window created in the bottom right corner
 CogniCrypt is a static code analysis tool, that inspects the Java-Bytecode produced from the source code by the compiler. Thus before running a code analysis you **must build your code first**.
 
 ### **Analysis**
-To run an analysis you need to invoke the menu item shown in the image above. More details about how the analysis works and how you can configure it can be read [here]().
+To run an analysis you need to invoke the menu item shown in the image above. More details about how the analysis works and how you can configure it can be read [here](AnalysisInfo.md).
 
 ## Other Features
 - [CogniCrypt Rulesets](CrySLRules.md)
