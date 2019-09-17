@@ -3,7 +3,7 @@
 ## Information
 CogniCrypt is an intelligent open-source platform ensuring the secure usage of crypto components.
 
-CogniCrypt for IntelliJ-based IDEs is developed by [Fraunhofer IEM](iem.fraunhoder.de). It provides a static code analysis that allows developers to quickly identify misuses of cryptographic libraries.
+CogniCrypt for IntelliJ-based IDEs is developed by [Fraunhofer IEM](https://www.iem.fraunhofer.de). It provides a static code analysis that allows developers to quickly identify misuses of cryptographic libraries.
 
 ## Installation
 
