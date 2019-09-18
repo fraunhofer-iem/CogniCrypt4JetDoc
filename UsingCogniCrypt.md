@@ -43,6 +43,7 @@ To run an analysis you need to invoke the menu item shown in the image above. Mo
 
 - Analysis on obfuscated code may not succeed. [Read more](ObfuscatedCode.md). 
 - A Error-to-Code line mapping only is sufficient if all source files have not been modified since the last compilation (including line breaks)  
+- Package Private classes that reside inside a other class file can not be resolved as no mapping between source code file and full qualified class name is possible.
 
 ## Known Bugs
 - Error line markers might not get rendered until the file in question was modified nearby the line containing the error.
