@@ -1,3 +1,5 @@
+# CryLS Ruleset 
+
 ## What is CrySL
 CogniCrypt performs its Analysis based on a ruleset that defines by a white list approach how certain API calls must be invoked to consider them secure. 
 

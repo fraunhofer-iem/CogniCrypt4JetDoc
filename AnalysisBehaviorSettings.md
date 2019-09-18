@@ -1,4 +1,4 @@
-## Supported Programing Languages
+# Supported Programing Languages
 Becuase CogniCrypt analyzes Java Bytecode the Plugin in principal supports any [JVM compatible Languages](https://en.wikipedia.org/wiki/List_of_JVM_languages), such as **Java**, **Kotlin**, **Scala** or **Clojure**. 
 
 So far **Java** and **Kotlin** have been successfully tested with this plugin. 
