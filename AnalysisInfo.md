@@ -33,6 +33,6 @@ Options for changing the behavior of the automatic input search are described [h
 On every build action performed on the project the plugin (if necessary) invalidates caches that hold information about analysis input choices. E.g. this includes a specific Android App file that was analyzed last time. If the cached information are out of date the user will be asked what to do next time the analysis is started.  
 
 ## Analysis Findings
-All CogniCrypt findings get displayed in the dedicated [CogniCrypt Tool Window](). Additionally a code marker will be placed on the text editor at the position where the finding is located. Hovering over that marker will give you information what the error is and gives you a hint how to fix it.
+All CogniCrypt findings get displayed in the dedicated [CogniCrypt Tool Window](ToolWindow.md). Additionally a code marker will be placed on the text editor at the position where the finding is located. Hovering over that marker will give you information what the error is and gives you a hint how to fix it.
 
 ![CogniCrypt Marker](Images/CCMarkers.PNG)  
