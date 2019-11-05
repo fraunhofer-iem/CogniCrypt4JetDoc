@@ -2,7 +2,11 @@
 
 ## General Overview
 
-**<span style="color:#0088FF">TODO: Explain CogniCrypt components</span>**.
+![CogniCrypt Marker](Images/CCArch.PNG) 
+
+The above image shows the relevant components for performing the analysis. The IDE plugins are build on top of a [GitHub Project called CryptAnalysis](https://github.com/CROSSINGTUD/CryptoAnalysis). Beside some huge abstractions to the lower components which realize the core analysis also in this component the CrySL Engine is located. The API-specif CrySL rulesets are maintained in [this repository](https://github.com/CROSSINGTUD/Crypto-API-Rules).
+
+The Soot component is mainly responsible for transforming Java Bytecode into a new intermediate language called *Jimple*. The other components like *Boomerang* are realizing the precise Data-Flow analysis upon the Jimple representation.
 
 
 ## Analysis Input
@@ -31,4 +35,4 @@ On every build action performed on the project the plugin (if necessary) invalid
 ## Analysis Findings
 All CogniCrypt findings get displayed in the dedicated [CogniCrypt Tool Window](). Additionally a code marker will be placed on the text editor at the position where the finding is located. Hovering over that marker will give you information what the error is and gives you a hint how to fix it.
 
-![CogniCrypt Marker](Images/CCMarkers.png)  
+![CogniCrypt Marker](Images/CCMarkers.PNG)  
