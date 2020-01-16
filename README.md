@@ -9,7 +9,7 @@ CogniCrypt for IntelliJ-based IDEs is developed by [Fraunhofer IEM](https://www.
 
 1. In the Settings/Preferences dialog *(Ctrl+Alt+S)*, select **Plugins**.
 2. On the **Plugins** page, click the **gear icon** and then click **Manage Plugin Repositories**.
-3. In the **Custom Plugin Repositories** dialog, click The **+** icon and enter the URL: `https://gitlab.cc-asp.fraunhofer.de/.../updatePlugins.xml`. 
+3. In the **Custom Plugin Repositories** dialog, click The **+** icon and enter the URL: `https://raw.githubusercontent.com/fraunhofer-iem/CogniCrypt4JetBuilds/master/updatePlugins.xml`. 
 4. Click **OK** in the dialog to save the list of plugin repositories.
 5. Search for CogniCrypt in the search box. 
 6. Click **Install** and restart the IDE when asked. 
