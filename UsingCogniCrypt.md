@@ -3,13 +3,11 @@
 ## Software Requirements
 
 - Any **Windows**, **macOS** or **Linux** Operating System
-- ca. **30MB** of Storage Space
+- ca. **50MB** of Storage Space
 
 ### Supported IDEs
-- **IntelliJ Community Edition 2019.2**
-- **IntelliJ Community Edition 2019.3**
-- **IntelliJ Ultimate 2019.2**
-- **IntelliJ Ultimate 2019.3**
+- **IntelliJ Community Edition 2019.3 to 2020.2 EAP**
+- **IntelliJ Ultimate 2019.3 to 2020.2 EAP**
 - **Android Studio** (v3.5 or greater)
 
 ### Supported Programming Languages
