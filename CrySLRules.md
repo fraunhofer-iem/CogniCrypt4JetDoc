@@ -13,7 +13,7 @@ If you want to change the ruleset please follow the next steps:
 
 1. In the Settings/Preferences dialog *(Ctrl+Alt+S)*, select **CogniCrypt**.
 2. Press the **Broswe...** button and navigate to the root directory of a CrySL ruleset.  
-*(Such a root directory contains .cryptslbin files)*
+*(Such a root directory contains .crysl files)*
 3. Click **OK** in the dialog to save your selection.
 
 ![CogniCrypt Settings](Images/CCSettingsCrySL.png)
