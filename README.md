@@ -18,7 +18,11 @@ CogniCrypt for IntelliJ-based IDEs is developed by [Fraunhofer IEM](https://www.
 To assure you don't receive any StackOverflowError exceptions while the analysis is running you need to increase the stack size and allocated memory of the IDE:
 
 1. Go to **Help** > **Edit custom VM options...** 
-2. Enter the lines: `-Xmx4g -Xss100m`
+2. Enter the lines: 
+```
+-Xmx4g 
+-Xss100m
+```
 
 *`-Xmx4g` can be replaced with a custom GB number. Recommended are at least 4GB.* 
 
