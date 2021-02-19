@@ -51,3 +51,13 @@ This repository, the content it holds and the link of this repository must not b
 
 [//]: <> (# License
 Until further notice the builds and code of CogniCrypt for IntelliJ-based IDEs are exclusively owned by Fraunhofer IEM. Permission and conditions of usage can only be granted by Staff of the Fraunhofer IEM department Software Engineering and IT Security.)
+
+## Credits
+
+ 
+
+This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379). 
+<br/>
+  <br/><img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Logo_48_lang_Zeichenfl%C3%A4che%201.png" alt="AppSecure.nrw Logo" height="50"/>
+  
+<img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/EFRE_Foerderhinweis_englisch_farbig.jpg" alt="EFRE Logo" height="50"/> <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Ziel2NRW_RGB_1809_jpg.jpg" alt="Ziel2NRW Logo" height="50"/>
